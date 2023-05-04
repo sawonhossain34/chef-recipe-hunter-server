@@ -3,11 +3,13 @@ const app = express();
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
+// data load 
 const countries = require('./data/countries.json');
 const chefs = require('./data/chefs.json');
 
 app.use(cors());
 
+// port run web site
 app.get('/', (req, res) => {
     res.send('Hello,chef is running');
 })
@@ -35,7 +37,7 @@ app.get('/countries/:id', (req, res) => {
         res.send(countryChefs);
     }
 })
-
+// run port vs code
 
 app.listen(port, () => {
     console.log(`chef API  is running on port : ${port}`);
