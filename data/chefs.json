@@ -6,6 +6,37 @@
         "years_of_experience": 25,
         "number_of_recipes": 200,
         "likes": 10000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef1-recipes",
         "category_id": "1"
     },
@@ -16,6 +47,37 @@
         "years_of_experience": 15,
         "number_of_recipes": 150,
         "likes": 8000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef2-recipes",
         "category_id": "1"
     },
@@ -26,6 +88,37 @@
         "years_of_experience": 20,
         "number_of_recipes": 100,
         "likes": 5000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef3-recipes",
         "category_id": "1"
     },
@@ -36,6 +129,38 @@
         "years_of_experience": 18,
         "number_of_recipes": 120,
         "likes": 4000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
+
         "view_recipes_button": "https://example.com/chef4-recipes",
         "category_id": "1"
     },
@@ -46,6 +171,37 @@
         "years_of_experience": 30,
         "number_of_recipes": 250,
         "likes": 15000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef5-recipes",
         "category_id": "1"
     },
@@ -56,6 +212,37 @@
         "years_of_experience": 22,
         "number_of_recipes": 180,
         "likes": 12000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef6-recipes",
         "category_id": "1"
     },
@@ -66,6 +253,37 @@
         "years_of_experience": 12,
         "number_of_recipes": 80,
         "likes": 3000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef7-recipes",
         "category_id": "1"
     },
@@ -76,6 +294,37 @@
         "years_of_experience": 28,
         "number_of_recipes": 220,
         "likes": 9000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef8-recipes",
         "category_id": "1"
     },
@@ -86,6 +335,37 @@
         "years_of_experience": 16,
         "number_of_recipes": 130,
         "likes": 6000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef9-recipes",
         "category_id": "1"
     },
@@ -96,6 +376,37 @@
         "years_of_experience": 17,
         "number_of_recipes": 140,
         "likes": 7000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef10-recipes",
         "category_id": "1"
     },
@@ -107,6 +418,37 @@
         "years_of_experience": 35,
         "number_of_recipes": 500,
         "likes": 25000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef1-recipes"
     },
     {
@@ -117,6 +459,37 @@
         "years_of_experience": 30,
         "number_of_recipes": 400,
         "likes": 20000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef2-recipes"
     },
     {
@@ -127,6 +500,37 @@
         "years_of_experience": 25,
         "number_of_recipes": 300,
         "likes": 15000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef3-recipes"
     },
     {
@@ -137,6 +541,37 @@
         "years_of_experience": 20,
         "number_of_recipes": 250,
         "likes": 12000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef4-recipes"
     },
     {
@@ -147,6 +582,37 @@
         "years_of_experience": 40,
         "number_of_recipes": 600,
         "likes": 30000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef5-recipes"
     },
     {
@@ -157,6 +623,37 @@
         "years_of_experience": 15,
         "number_of_recipes": 200,
         "likes": 10000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef6-recipes"
     },
     {
@@ -167,6 +664,37 @@
         "years_of_experience": 18,
         "number_of_recipes": 220,
         "likes": 9000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef7-recipes"
     },
     {
@@ -177,6 +705,37 @@
         "years_of_experience": 12,
         "number_of_recipes": 180,
         "likes": 8000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/chef8-recipes"
     },
     {
@@ -187,6 +746,37 @@
         "years_of_experience": 55,
         "number_of_publications": 200,
         "likes": 100000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_publications_button": "https://example.com/hawking-publications"
     },
     {
@@ -197,6 +787,37 @@
         "years_of_experience": 20,
         "number_of_publications": 100,
         "likes": 50000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_publications_button": "https://example.com/curie-publications"
     },
     {
@@ -207,6 +828,37 @@
         "years_of_experience": 40,
         "number_of_publications": 150,
         "likes": 75000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_publications_button": "https://example.com/einstein-publications"
     },
     {
@@ -217,6 +869,37 @@
         "years_of_experience": 10,
         "number_of_publications": 50,
         "likes": 25000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_publications_button": "https://example.com/lovelace-publications"
     },
     {
@@ -227,6 +910,37 @@
         "years_of_experience": 25,
         "number_of_publications": 120,
         "likes": 60000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_publications_button": "https://example.com/tesla-publications"
     },
     {
@@ -237,6 +951,37 @@
         "years_of_experience": 30,
         "number_of_publications": 80,
         "likes": 40000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_publications_button": "https://example.com/wolfram-publications"
     },
     {
@@ -247,6 +992,37 @@
         "years_of_experience": 35,
         "number_of_publications": 90,
         "likes": 45000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_publications_button": "https://example.com/feynman-publications"
     },
     {
@@ -257,6 +1033,37 @@
         "years_of_experience": 25,
         "number_of_recipes": 200,
         "likes": 50000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/ian-kittichai-recipes"
     },
     {
@@ -267,6 +1074,37 @@
         "years_of_experience": 20,
         "number_of_recipes": 150,
         "likes": 40000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/duangporn-songvisava-recipes"
     },
     {
@@ -277,6 +1115,37 @@
         "years_of_experience": 30,
         "number_of_recipes": 250,
         "likes": 60000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/david-thompson-recipes"
     },
     {
@@ -287,6 +1156,37 @@
         "years_of_experience": 15,
         "number_of_recipes": 100,
         "likes": 30000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/nooror-somany-steppe-recipes"
     },
     {
@@ -297,6 +1197,37 @@
         "years_of_experience": 10,
         "number_of_recipes": 50,
         "likes": 20000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/sanya-souvanna-phouma-recipes"
     },
     {
@@ -307,6 +1238,37 @@
         "years_of_experience": 18,
         "number_of_recipes": 120,
         "likes": 35000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/pim-techamuanvivit-recipes"
     },
     {
@@ -317,6 +1279,37 @@
         "years_of_experience": 22,
         "number_of_recipes": 180,
         "likes": 45000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/andy-ricker-recipes"
     },
     {
@@ -327,6 +1320,37 @@
         "years_of_experience": 20,
         "number_of_recipes": 150,
         "likes": 40000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/publis-silva-recipes"
     },
     {
@@ -337,6 +1361,37 @@
         "years_of_experience": 25,
         "number_of_recipes": 200,
         "likes": 50000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/kumar-pereira-recipes"
     },
     {
@@ -347,6 +1402,37 @@
         "years_of_experience": 15,
         "number_of_recipes": 100,
         "likes": 30000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/dharshan-munidasa-recipes"
     },
     {
@@ -357,6 +1443,37 @@
         "years_of_experience": 30,
         "number_of_recipes": 250,
         "likes": 60000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/nihal-senanayake-recipes"
     },
     {
@@ -367,6 +1484,37 @@
         "years_of_experience": 12,
         "number_of_recipes": 75,
         "likes": 25000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/darshan-seneviratne-recipes"
     },
     {
@@ -377,6 +1525,37 @@
         "years_of_experience": 18,
         "number_of_recipes": 120,
         "likes": 35000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/peter-kuruvita-recipes"
     },
     {
@@ -387,6 +1566,37 @@
         "years_of_experience": 15,
         "number_of_recipes": 80,
         "likes": 35000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/salma-husseini-recipes"
     },
     {
@@ -397,6 +1607,37 @@
         "years_of_experience": 12,
         "number_of_recipes": 60,
         "likes": 25000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/kamal-hamid-recipes"
     },
     {
@@ -407,6 +1648,37 @@
         "years_of_experience": 10,
         "number_of_recipes": 40,
         "likes": 15000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/zahra-ayubi-recipes"
     },
     {
@@ -417,6 +1689,37 @@
         "years_of_experience": 10,
         "number_of_recipes": 40,
         "likes": 15000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/zahra-ayubi-recipes"
     },
     {
@@ -427,6 +1730,37 @@
         "years_of_experience": 10,
         "number_of_recipes": 40,
         "likes": 15000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/zahra-ayubi-recipes"
     },
     {
@@ -437,6 +1771,37 @@
         "years_of_experience": 10,
         "number_of_recipes": 40,
         "likes": 15000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/zahra-ayubi-recipes"
     },
     {
@@ -447,6 +1812,37 @@
         "years_of_experience": 30,
         "number_of_recipes": 500,
         "likes": 75000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/zubaida-tariq-recipes"
     },
     {
@@ -457,6 +1853,37 @@
         "years_of_experience": 25,
         "number_of_recipes": 400,
         "likes": 65000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/gulzar-hussain-recipes"
     },
     {
@@ -467,6 +1894,37 @@
         "years_of_experience": 20,
         "number_of_recipes": 300,
         "likes": 55000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/zarnak-sidhwa-recipes"
     },
     {
@@ -477,6 +1935,37 @@
         "years_of_experience": 15,
         "number_of_recipes": 200,
         "likes": 45000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/mehboob-khan-recipes"
     },
     {
@@ -487,6 +1976,37 @@
         "years_of_experience": 12,
         "number_of_recipes": 150,
         "likes": 35000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/rida-aftab-recipes"
     },
     {
@@ -497,6 +2017,37 @@
         "years_of_experience": 10,
         "number_of_recipes": 100,
         "likes": 25000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/shireen-anwar-recipes"
     },
     {
@@ -507,6 +2058,37 @@
         "years_of_experience": 8,
         "number_of_recipes": 50,
         "likes": 15000,
+        "cook_details": {
+            "recipeName": "Classic Lasagna",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 can (28 oz.) crushed tomatoes",
+                "1 can (6 oz.) tomato paste",
+                "1 cup water",
+                "2 cloves garlic, minced",
+                "2 tsp. dried basil leaves",
+                "1 tsp. salt",
+                "1/4 tsp. pepper",
+                "1 lb. lasagna noodles",
+                "4 cups shredded mozzarella cheese",
+                "1 1/2 cups cottage cheese",
+                "1/2 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": [
+                "In a large skillet over medium heat, cook the ground beef until browned. Drain off excess fat.",
+                "Stir in the crushed tomatoes, tomato paste, water, garlic, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally.",
+                "Meanwhile, cook the lasagna noodles according to package directions. Drain.",
+                "In a large mixing bowl, combine the cottage cheese and grated Parmesan cheese.",
+                "Preheat oven to 375°F.",
+                "Spread a small amount of the meat sauce in the bottom of a 9x13 inch baking dish.",
+                "Layer with 1/3 of the lasagna noodles, 1/3 of the remaining meat sauce, 1/3 of the mozzarella cheese, and 1/2 of the cottage cheese mixture.",
+                "Repeat the layers, ending with the mozzarella cheese on top.",
+                "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+                "Allow to cool for 10-15 minutes before slicing and serving."
+            ],
+            "rating": 4.5,
+            "favorite": true
+        },
         "view_recipes_button": "https://example.com/tahir-chaudhary-recipes"
     }
 ]
